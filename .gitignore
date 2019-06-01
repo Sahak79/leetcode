@@ -1,5 +1,6 @@
 *.sw?
 target/
+out/
 .settings/
 .idea/
 .classpath
@@ -8,11 +9,3 @@ target/
 .factorypath
 .*~
 *.iml
-iris-core-it/it.log
-iris-core-it/run-integration-tests.sh
-iris-core-main/run.log
-iris-core-main/run.sh
-iris-core-main/iris-core-local.yml
-run-integration-tests-NY5.sh
-dependency-reduced-pom.xml
-version.properties
